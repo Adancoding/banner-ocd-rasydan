@@ -1,0 +1,17 @@
+
+
+
+
+.container {
+    background-color: bisque;
+    display: block;
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.box {
+background-color: aqua;
+
+}
